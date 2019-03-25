@@ -3,7 +3,7 @@
 **iOS Developer : swift**
 - Mail: <kimjinu5555@gmail.com>  
 - github: https://github.com/KakaoTocs  
-- blog: nil
+- blog: https://medium.com/@kimjinu5555
  <br /> <br />
  
 경력
