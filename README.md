@@ -1,6 +1,6 @@
 김진우 Kim Jinu
 -
-**iOS Developer : swift**  
+**iOS Developer : swift**
 - Mail: <kimjinu5555@gmail.com>  
 - github: https://github.com/KakaoTocs  
 - blog: nil
